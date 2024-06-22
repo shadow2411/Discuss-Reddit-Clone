@@ -1,4 +1,4 @@
-export { signIn } from "./signIn";
+export { signInWithGithub, signInWithGoogle } from "./signIn";
 export { signOut } from "./signOut";
 export { createPost } from "./create-post";
 export { createTopic } from "./create-topic";
